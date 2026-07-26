@@ -1,0 +1,15 @@
+Feature,Importance
+reading score,0.2907508
+gender_male,0.19511344
+writing score,0.13239665
+lunch_standard,0.0988107
+race/ethnicity_group E,0.08402237
+parental level of education_bachelor's degree,0.038939096
+parental level of education_some high school,0.027959375
+race/ethnicity_group B,0.027884027
+parental level of education_high school,0.027236883
+parental level of education_some college,0.0248265
+parental level of education_master's degree,0.021841967
+race/ethnicity_group C,0.01705531
+race/ethnicity_group D,0.01316285
+test preparation course_none,0.0
